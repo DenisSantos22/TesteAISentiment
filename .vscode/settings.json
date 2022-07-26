@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f790c6a5-8fc8-42e1-b105-f47b16368f1a/microsoft.web/sites/subscriptions/f790c6a5-8fc8-42e1-b105-f47b16368f1a/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/testeAisentiment",
+    "appService.deploySubpath": "."
+}
