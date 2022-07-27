@@ -1,0 +1,23 @@
+{
+  "name": "testeaisentiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisSantos22/TesteAISentiment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisSantos22/TesteAISentiment/issues"
+  },
+  "homepage": "https://github.com/DenisSantos22/TesteAISentiment#readme",
+  "dependencies": {
+    "@azure/ai-text-analytics": "^5.1.0"
+  }
+}
